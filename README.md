@@ -1,5 +1,6 @@
 # ransomRU
-ransomRU is a mass ransomware, written in Python!
+it's just for fun xd
+
 
 # TESTED ON
 • WINDOWS 10
