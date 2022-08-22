@@ -3,7 +3,9 @@ ransomRU is a mass ransomware, written in Python!
 
 # TESTED ON
 • WINDOWS 10
+
 • UBUNTU
+
 • DEBIAN
 
 # INSTALL & USE
